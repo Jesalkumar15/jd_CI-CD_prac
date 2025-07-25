@@ -25,8 +25,3 @@ phases:
     commands:
       - echo "Build completed successfully!"
       - echo "FILE CHANGE IN FLASK" 
-artifacts:
-  files:
-    - '**/*'
-  base-directory: ../simple-python-app
-
